@@ -1,0 +1,29 @@
+DJI Osmo Action 4 User Manual
+Device Info
+
+Tap to view the device name, serial number, firmware version, quick
+start guide, and export the log. Tap Export Log to export the log to the
+microSD card. When the camera is connected to the Osmo Action GPS
+remote controller, users can view the firmware version of the remote
+controller.
+
+Compliance Info
+
+Tap to view the compliance information.
+
+5. Orientation Lock
+Tap to switch between automatic orientation and locked orientation.
+6. Screen Lock
+Tap to lock the screen. Swipe up on the touchscreen to unlock the screen.
+7. Voice Control
+Tap to enable Voice Control so the user can control the camera with set voice commands.
+Voice Control is useful in the sports scenarios where hands are busy such as when cycling or
+skiing.
+8. Full Front Screen
+Tap to enable or disable full screen display on the front screen.
+
+18
+
+© 2023 DJI All Rights Reserved.
+
+

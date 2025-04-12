@@ -1,0 +1,41 @@
+DJI Osmo Action 4 User Manual
+Slow Motion
+
+Basic Mode
+The FOV and image parameters can be adjusted.
+1. FOV: FOV can be set to Standard (Dewarp) or Wide.
+2. Image Adjustment: users can adjust the sharpness and noise
+reduction based on needs for optimal image quality.
+PRO Mode
+Exposure, White Balance, Color, FOV, and Image Adjustment are
+available.
+1. Exposure Exposure: Auto and Manual modes are available.
+2. White Balance: Auto and Manual modes are available.
+3. Colors: Normal and D-Log M are available. D-Log M is designed
+for professional color grading when post-editing. In high-contrast
+or multi-color (e.g., garden, field, etc.) scenarios, it can enlarge the
+dynamic range for more color-tuning in post-production. 10-bit
+color depth enables smoother color transition.
+4. FOV: the parameters are same with Basic Mode.
+5. Image Adjustment: the parameters are same with Basic Mode.
+
+Timelapse
+
+Hyperlapse
+Basic Mode: FOV, EIS Priority in Low Light, and Image Adjustment are
+available.
+PRO Mode: Exposure, White Balance, Color, FOV, and Image Adjustment
+are available.
+Timelapse
+Basic Mode: FOV and Image Adjustment are available.
+PRO Mode: Exposure, White Balance, FOV, Format, and Image Adjustment
+are available.
+
+6. Zoom
+1.0 x : press and hold the icon, then drag to set the zoom ratio.
+
+© 2023 DJI All Rights Reserved.
+
+15
+
+

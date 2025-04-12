@@ -1,0 +1,81 @@
+DJI Osmo Action 4 User Manual
+
+Product Profile
+Osmo Action 4 is capable of capturing smooth video at up to 4K/120fps and offers a 155°
+super-wide FOV. With DJI’s latest EIS (Electronic Image Stabilization) technology, Osmo Action
+4 can record super smooth footage for various sports scenes. With a 1/1.3-inch image sensor,
+the camera ensures low-noise footage in sports scenarios and low-light scenes with a high
+dynamic range or high contrast. In addition, D-Log M color mode provides a more comfortable
+color perception and a larger dynamic range, which is convenient for post-production color
+correction.
+Osmo Action 4 is equipped with dual touchscreens. The front touchscreen helps capture the
+perfect selfie, while the rear touchscreen displays the liveview of the camera. Both touchscreens
+enable users to change the settings with fingertip movements. The buttons on the camera
+enable users to control recording or switch the shooting mode. Osmo Action 4 is waterproof at
+depths of up to 18 m. With different Osmo accessories, users can enjoy the full range of Osmo
+Action 4 features.
+
+Overview
+1. Shutter/Record Button
+
+13
+
+1
+
+2. Front Touchscreen
+3. Lens
+4. Status LED I
+5. Microphone I
+6. Color Temperature Photo Sensor
+
+12
+11
+10
+9
+8
+
+2
+3
+4
+5
+
+7. Microphone II
+
+6 7
+
+8. USB-C Port
+9. USB-C Port Cover
+10. USB-C Port Cover Release Button
+11. Lens Protective Cover
+12. Quick Switch Button
+13. Speaker
+
+14
+
+16
+17
+
+15
+18
+
+14. Status LED II
+15. Rear Touchscreen
+16. Battery Compartment Cover
+17. microSD Card Slot
+
+20
+
+18. Battery Compartment Cover Release Button
+19. Windproof Microphone
+
+21
+
+19
+
+20. Quick-Release Slot I
+21. Quick-Release Slot II
+© 2023 DJI All Rights Reserved.
+
+5
+
+

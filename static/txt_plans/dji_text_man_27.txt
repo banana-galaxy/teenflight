@@ -1,0 +1,46 @@
+DJI Osmo Action 4 User Manual
+
+Maintenance
+Firmware Update
+The firmware version of Osmo Action 4 is updated using DJI Mimo.
+Make sure the battery level of Osmo Action 4 is at least 15% before updating its firmware
+version. Connect Osmo Action 4 to the DJI Mimo app. If new firmware is available, users will be
+notified by DJI Mimo. Update the firmware according to the on-screen instructions. The update
+takes approximately 2 minutes.
+
+Underwater Usage Notes
+Osmo Action 4 can be used underwater at depths of up to 18 m. When used with the Osmo
+Action 60m waterproof case, the device can operate underwater up to 60 m deep. Observe the
+following precautions when using the device in water.
+1. Make sure the battery and battery compartment are dry and clean before inserting the
+battery. Otherwise, it may affect the battery contact and waterproofing ability. Make sure the
+battery compartment cover is firmly fastened after the battery is inserted. Note: if the cover
+is properly mounted, the red marks on the bottom will not be visible.
+2. Make sure the USB-C port cover is clean and closed before using. Otherwise, it will affect the
+device waterproofing ability.
+3. Make sure the lens protective cover is clean and closed before using. Otherwise, it will affect
+the device waterproofing ability. Make sure the lens protective cover and lens are dry and
+clean. Sharp or hard objects may damage the lens and affect the ability of the device. Make
+sure the lens protective cover are firmly mounted and fastened.
+4. Osmo Action 4 is not waterproof unless the battery compartment cover, USB-C port cover,
+and lens protective cover are firmly mounted and fastened. The camera is NOT waterproof
+when used with Osmo Action Lens Hood.
+5. Avoid jumping into water at high speed with Osmo Action 4. Otherwise, the impact may
+result in water seepage. Make sure the camera is waterproofed before jumping into water.
+6. DO NOT use Osmo Action 4 in hot springs or extreme underwater environments. DO NOT
+let Osmo Action 4 to come into contact with corrosive or unknown liquids.
+7. Rinse the camera with clean water after using it underwater. Allow it to dry naturally
+before using again. DO NOT dry the camera with hot air using a hair dryer, otherwise the
+microphone membrane and the built-in breathable membrane will rupture, and the camera
+will no longer be waterproof.
+Attach the waterproof case to Osmo Action 4 when using it while diving, surfing, underwater for
+an extended period, or in other situations involving high water impact. Observe the following
+precautions when using the device with the waterproof case:
+1. Make sure the rubber seal is clean and firmly attached during use.
+2. Make sure the waterproof case is dry (for best results, place anti-fog fiber in the case during
+use) and the latch is secure.
+© 2023 DJI All Rights Reserved.
+
+27
+
+

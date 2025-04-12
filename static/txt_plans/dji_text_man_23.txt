@@ -1,0 +1,40 @@
+DJI Osmo Action 4 User Manual
+
+DJI Mimo App
+When used with the DJI Mimo app, users can monitor the current camera view, set the camera
+parameters, and control the camera with a mobile device. The DJI Mimo app enables user to
+get most out of Osmo Action 4 with a series of functions, such as transferring files, editing and
+sharing, InvisiStick for Skiing, and Wi-Fi livestream.
+
+Download the DJI Mimo App
+Search DJI Mimo in the app store, or scan the QR code to download and install.
+
+DJI Mimo App
+
+DJI Store App
+
+https://s.dji.com/guide60
+
+iOS 12.0 or above
+
+Android 8.0 or above
+
+Connecting to the DJI Mimo App
+1. Power on Osmo Action 4.
+2. Enable Wi-Fi and Bluetooth on the mobile device.
+3. Launch DJI Mimo, tap
+
+, and follow the instructions to activate Osmo Action 4.
+
+• If there is a problem when connecting to DJI Mimo, follow the steps below.
+a. Make sure that both Wi-Fi and Bluetooth are enabled on the mobile device.
+b. Make sure the DJI Mimo app has the latest firmware version.
+c. Swipe down from the top of the screen to enter the control menu, select Wireless
+Connection > Reset Connection. The camera will reset all connections and Wi-Fi
+passwords.
+
+© 2023 DJI All Rights Reserved.
+
+23
+
+

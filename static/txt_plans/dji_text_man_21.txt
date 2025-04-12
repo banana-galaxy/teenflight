@@ -1,0 +1,33 @@
+DJI Osmo Action 4 User Manual
+
+Transferring Files
+Transferring Files to a Phone
+Connect Osmo Action 4 to DJI Mimo, tap the Playback icon to preview photos and videos. Click
+to download photos and videos. The photos and videos can be shared directly from DJI Mimo
+to social media platforms.
+
+Transferring Files to a Computer
+Power on Osmo Action 4 and connect it to a computer using a USB-C cable. When connected
+to a computer, a pop-up will appear, this prompts the user to select the USB connection type
+on the camera touchscreen. Tap Transfer File to download the files from the camera to the
+computer. When transferring a file, the camera cannot take photos or record videos.
+Select Cancel to only charge Osmo Action 4.
+
+• Reconnect Osmo Action 4 to the computer if a file transfer is interrupted.
+
+OTG Connection for Transferring Files
+For the Android devices supporting OTG connection, the files can be transferred from the
+camera to the Android device with OTG connection.
+Connect the camera to an Android device with the Type-C to Type-C PD cable (included) using
+the USB-C port on the camera. When connected, view and transfer the photos and videos of the
+camera via the device album or file management.
+• If the camera cannot automatically recognize the Android device using the OTG
+connection, swipe down from the edge of the screen and enter the control menu.
+Tap Settings > OTG Connection, and use the Type-C to Type-C PD cable to connect the
+camera to device.
+
+© 2023 DJI All Rights Reserved.
+
+21
+
+

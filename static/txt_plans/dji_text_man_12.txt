@@ -1,0 +1,64 @@
+DJI Osmo Action 4 User Manual
+
+Swipe Left or Right
+Switches between video, photo, and other shooting
+modes.
+
+Swipe Up from the Bottom of the Screen
+Sets the shooting parameters such as Aspect Ratio,
+Countdown Timer, and Resolution.
+
+Camera View
+
+1
+
+4:15
+
+4
+
+20m22s
+
+2
+
+5
+
+3
+
+1080P / 30
+
+1080P30
+
+1.0X
+
+1.0x
+
+6
+
+1. Storage Capacity Information
+20m22s : the icon displays either the storage capacity, the remaining number of photos or
+the video duration that can be taken or recorded according to the current shooting mode.
+The icon is displayed only when a microSD card is inserted.
+
+2. Playback
+: tap to preview the last photo or video captured or played back. Swipe from the right to
+exit playback and go back to liveview.
+3. Shooting Modes
+: tap the icon and swipe to select the shooting mode.
+
+12
+
+Shooting Modes
+
+Description
+
+Take a photo
+
+Take a photo or countdown photo.
+
+Video
+
+Record a video.
+
+© 2023 DJI All Rights Reserved.
+
+

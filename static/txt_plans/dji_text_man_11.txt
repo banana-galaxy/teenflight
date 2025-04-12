@@ -1,0 +1,40 @@
+DJI Osmo Action 4 User Manual
+
+Operation
+Button Features
+
+Quick Switch
+Button
+Shutter/Record
+Button
+
+Shutter/Record Button
+• Press once: take a photo or start/stop recording.
+• Press and hold when powered off: power on quickly and begin shooting. The shooting mode
+will depend on the SnapShot settings. After shooting, the camera will automatically power off
+if left idle for three seconds.
+Quick Switch Button
+• Press and hold: power on/off.
+• Press once: switch between shooting modes.
+
+Operating the Touchscreen
+After the camera is powered on, both touchscreens of the camera display the liveview as well as
+the shooting mode, battery level, and microSD card information. Tap or swipe on a touchscreen
+to interact with the camera. Note: the two touchscreens cannot be operated at the same time.
+When one touchscreen is operated, the other touchscreen is locked.
+Operating the Touchscreen
+
+Descriptions
+
+Tap
+Select the icons on both sides of the screen to playback
+shot footage and change the camera settings.
+
+Swipe Down from the top of the Screen
+Enters the control menu.
+
+© 2023 DJI All Rights Reserved.
+
+11
+
+

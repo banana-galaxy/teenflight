@@ -1,0 +1,73 @@
+DJI Osmo Action 4 User Manual
+Video
+
+Basic Mode
+FOV, Image Adjustment, EIS Priority in Low Light, and Low-Light Image
+Enhancement are available.
+1. FOV: FOV can be set to Narrow, Standard (Dewarp), Wide, or Ultra
+Wide. Some FOV options are unavailable when using certain frame
+rates.
+2. EIS Priority in Low Light: enabling EIS Priority in Low Light will remove
+motion blur and disable anti-flicker function. Image sharpness may
+be affected when ambient light is too low.
+3. Image Adjustment: users can adjust the sharpness and noise
+reduction based on needs for optimal image quality.
+4. Low-Light Image Enhancement: when enabled, the camera will
+detect low-light environment automatically and adjust exposure
+parameters intelligently to improve image quality.
+PRO Mode
+Image and audio parameters can be adjusted.
+Image Parameters: Exposure, White Balance, Color, FOV, Image
+Adjustment, and Low-Light Image Enhancement are available.
+•
+
+Exposure: Auto and Manual modes are available.
+
+•
+
+White Balance: Auto and Manual modes are available.
+
+•
+
+Colors: Normal and D-Log M are available. D-Log M is designed for
+professional color grading in post-editing. In high-contrast or multicolor (e.g., garden, field, etc.) scenarios, it can enlarge the dynamic
+range for more color-tuning space in post-production. 10-bit color
+depth enables smoother color transition.
+
+•
+
+FOV: the parameters are same with Basic Mode.
+
+•
+
+Image Adjustment: the parameters are same with Basic Mode.
+
+•
+
+Low-Light Image Enhancement: the parameters are same with Basic
+Mode.
+
+Audio Parameters: Channel, Wind Noise Reduction, and Gain are
+available.
+
+14
+
+•
+
+Channel: select from Stereo or Mono.
+
+•
+
+Wind Noise Reduction: when enabled, the camera will reduce the
+wind noise picked up by the built-in microphone using algorithms.
+Note: Wind Noise Reduction does not work when connected to the
+external microphone.
+
+•
+
+When a microphone is connected, the input gain of the microphone
+can be adjusted.
+
+© 2023 DJI All Rights Reserved.
+
+

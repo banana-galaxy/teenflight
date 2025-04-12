@@ -1,0 +1,69 @@
+DJI Osmo Action 4 User Manual
+
+Swipe Up - Parameters Settings
+Swipe up from the bottom of the screen to set the parameters for each shooting mode.
+Shooting Modes
+
+Settings
+
+Photo
+
+Set Aspect Ratio and Countdown Timer.
+
+Video
+
+Set video resolution and frame rate.
+Tap the upper left corner to set the duration of the loop recording.
+When using loop recording, the camera records a video by
+overwriting older footage with new footage at selected intervals.
+Use loop recording when trying to capture a spontaneous moment
+(e.g., during fishing). This allows the camera to keep recording while
+saving space on the microSD card.
+Tap on the upper right corner to turn off EIS and enable RockSteady,
+RockSteady+, HorizonBalancing, or HorizonSteady. For different
+resolutions and frame rates, certain EIS modes can only be selected.
+Different EIS modes have different stablization performance.
+•
+
+Disabled: when selected, record the video with the largest FOV.
+
+•
+
+RockSteady: stabilizing footage while retaining the dynamics
+of movement, which is suitable for first-person perspective
+shooting.
+
+•
+
+RockSteady+: compared with RockSteady, the edges of these
+images will be cut off more to obtain stronger stabilization
+performance.
+
+•
+
+HorizonBalancing: this mode corrects shakes for any horizontal
+rotation (45°). In this mode, 4K resolution video is supported.
+
+•
+
+HorizonSteady: this mode corrects shakes for any horizontal
+rotation (360°) and locks onto a leveled horizon in every frame,
+regardless of how the camera is mounted or worn.
+
+Slow Motion
+
+Set the video resolution and speed ratio.
+
+Hyperlapse
+
+Select Hyperlapse or Timelapse mode. The speed ratio can be set in
+Hyperlapse mode. The scene, interval time, and shooting time can
+be set when using Timelapse.
+Tap the upper right corner to set the resolution when using
+Timelapse.
+
+© 2023 DJI All Rights Reserved.
+
+19
+
+

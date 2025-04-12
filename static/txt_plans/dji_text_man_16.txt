@@ -1,0 +1,68 @@
+DJI Osmo Action 4 User Manual
+
+Swipe Down - Control Menu
+Swipe down from the edge of the screen to enter the control menu.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1. Custom Mode
+Tap
+and tap
+to save the current configuration as a custom mode. Save the shooting
+parameters in the custom mode, which can then be used directly to shoot similar scenes.
+Users can save up to five custom modes.
+2. Quick Switch
+Set the modes accessible with the Quick Switch Button: Screen Switch, Custom Modes,
+Photo, Video, Slow Motion, Timelapse, Hyperlapse, and Playback. When Voice Prompt is
+enabled, the camera will voice broadcast the shooting mode once the quick switch button is
+pressed to change the mode. When the camera is installed on a helmet or other hard-to-see
+locations, users can accurately select the required mode with Voice Prompt.
+3. Brightness
+Tap and move the slider to adjust the brightness.
+4. Settings
+Item
+
+Description
+
+SnapShot
+
+When Osmo Action 4 is powered off or in sleep mode, use SnapShot
+to quickly power on and begin shooting. Supported shooting modes
+include Photo, Video, Last Settings, Video, Hyperlapse, and Custom
+Modes.
+After shooting, the camera will automatically power off if left idle for
+three seconds.
+
+16
+
+Single Screen
+Preview (Scrn Off
+When Locked)
+
+When enabled, only one touchscreen will turn on. Tap and swipe up
+on the touchscreen to unlock the screen.
+
+Voice Control
+
+Tap to enable voice control to use the camera with voice commands.
+Mandarin Chinese and English are supported. Voice commands in
+English include Start Recording, Stop Recording, Take Photo, and Shut
+Down.
+
+© 2023 DJI All Rights Reserved.
+
+

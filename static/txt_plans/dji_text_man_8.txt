@@ -1,0 +1,40 @@
+DJI Osmo Action 4 User Manual
+
+Osmo Action Extreme Battery
+The Osmo Action Extreme Battery boosts Osmo Action 4 performance across a wide
+temperature range from -20° to 45° C (4° F to 113° F). With a 1770 mAh capacity, the battery
+can continuously work for up to 160 minutes.* Refer to Battery Usage Notes for more detailed
+information on battery usage.
+* Tested at room temperature (25°C/77°F) and 1080p/24fps (16:9), with RockSteady on, Wi-Fi off, and screen
+off. This data is for reference only.
+
+Osmo Action Multifunctional Battery Case
+The Osmo Action Multifunctional Battery Case (hereinafter referred to as the battery case) is
+designed for storing two microSD cards and three Osmo Action Extreme Batteries safely. Users
+can check the battery levels by pressing the button once or opening the battery case. The
+status LEDs will display the battery level. When a charger is connected to the battery case with
+batteries inserted, the battery case will charge the batteries. When the batteries are inserted
+into the battery case, with external devices connected to the USB-C port, the batteries can be
+used as a power bank to charge the connected external devices.
+The batteries with the highest power level will be charged first, followed by the remaining
+batteries to be charged in sequence. The batteries with the lowest power level will be
+discharged first, followed by the remaining batteries to be discharged in sequence.
+When using the battery case to charge the Osmo Action Extreme Battery, it is recommended
+to use the DJI 30 W USB-C Charger (not included as standard) or a USB-C charger that supports
+Power Delivery or PPS (Programmable Power Supply). Three batteries can be fully charged in
+about two hours with the DJI 30 W USB-C Charger.
+
+• DO NOT use the battery case to charge non-DJI OSMO batteries. DJI OSMO shall not be
+responsible for any fault or damage caused by the use of any non-DJI OSMO battery.
+• Place the battery case on a flat and stable surface when in use. Make sure the device is
+properly insulated to prevent fire hazards.
+• DO NOT attempt to touch the metal terminals on the battery ports.
+• Clean the metal terminals with a clean, dry cloth if there is any noticeable buildup.
+• The battery case is not waterproof. DO NOT place it in water or spill any liquid on the
+case.
+
+8
+
+© 2023 DJI All Rights Reserved.
+
+

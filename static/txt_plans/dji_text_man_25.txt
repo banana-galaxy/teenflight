@@ -1,0 +1,86 @@
+DJI Osmo Action 4 User Manual
+
+Camera View
+The camera view display may differ depending on the shooting mode. This display is for
+reference only.
+
+9
+1.
+
+PHOTO
+VIDEO
+SLOWMOTION
+TIMELAPSE
+
+1.0x
+
+PHOTO
+1.0x
+
+VIDEO
+
+11
+10
+
+59:59
+
+LIVESTREAM
+
+59:59
+
+LIVESTREAM
+
+5
+
+SLOWMOTION
+
+2 3 4
+
+TIMELAPSE
+
+1
+
+6
+
+7
+
+8
+
+Home
+: tap to return to the home screen.
+
+2.
+
+Wi-Fi
+: displays Wi-Fi connection.
+
+3.
+
+Battery Level
+: displays the current battery level of Osmo Action 4.
+
+4.
+
+microSD Card Information
+: displays either the remaining number of photos that can be taken or the video
+duration that can be recorded according to the current shooting mode.
+
+5.
+
+Custom Mode
+: tap
+and tap
+to save the current configuration as a custom mode. Save the
+shooting parameters in the custom mode, which can then be used directly to shoot similar
+scenes. Users can save up to five custom modes.
+
+6.
+
+Shutter/Record Button
+: tap to take a photo or to start or stop recording a video.
+
+© 2023 DJI All Rights Reserved.
+
+25
+
+

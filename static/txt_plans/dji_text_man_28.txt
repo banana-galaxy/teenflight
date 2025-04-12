@@ -1,0 +1,41 @@
+DJI Osmo Action 4 User Manual
+3. Before use, it is recommended to place the waterproof case underwater for approximately 5
+minutes to ensure it is working properly.
+4. Rinse the case with tap water to prevent corrosion after using it in the sea.
+• The touchscreens of Osmo Action 4 can be operated when their surface is wet.
+• The touchscreens cannot function underwater. Users can press the camera buttons
+to start recording. Shutter/record button is disabled automatically when the camera is
+used without Osmo Action waterproof case at a depth of more than 14 m.
+
+Cleaning Notes
+1. Clean the lens protective cover with water or a lens cleaning pen, lens air blower, or lens
+cleaning cloth. When changing the lens protective cover, make sure the camera is dry. After
+using Osmo Action 4 in water, let the camera dry before using it again. This will prevent
+water from seeping into the lens protective cover and fogging up the lens. DO NOT remove
+the lens protective cover frequently to avoid dust accumulating inside the lens cover, which
+can affect shooting quality.
+2. Clean the lens with a lens cleaning pen, lens air blower, or lens cleaning cloth.
+3. Clean the battery and battery compartment with a clean, dry cloth.
+Make sure the quick-release slots on the camera are clean from dust and sand when attaching
+the Quick-Release Adapter Mount.
+
+Battery Usage Notes
+1. DO NOT use non-DJI OSMO batteries. New batteries can be purchased at www.dji.com. DJI
+OSMO shall not be responsible for any fault or damage caused by the use of any non-DJI
+OSMO batteries.
+2. The battery should be used at temperatures between -20° to 45° C (-4° to 113° F ). Use of
+the battery at temperatures above 45° C (113° F) can lead to a fire or explosion. Before using
+the battery in a low-temperature environment, it is recommended to charge the battery fully
+in a normal temperature environment. Charging the battery at the ideal temperature can
+prolong battery life.
+3. Battery performance will be affected if the battery is not used for an extended period.
+4. Discharge and charge the battery completely once every three months to keep it in good
+working condition.
+5. Remove the battery from Osmo Action 4 and store the battery in the Osmo Action
+Multifunctional Battery Case when stored for an extended period.
+
+28
+
+© 2023 DJI All Rights Reserved.
+
+

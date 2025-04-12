@@ -1,0 +1,95 @@
+DJI Osmo Action 4 User Manual
+OTG Connection
+
+Tap OTG Connection and connect the camera to an Android device
+with the Type-C to Type-C PD cable (included). With OTG connection,
+the files can be transferred from the camera to an Android device.
+Note: OTG Connection is only available when the Android device
+supports OTG connection.
+
+Wireless
+Connection
+
+Tap to check wireless information, select Wi-Fi frequency, and reset
+the Wi-Fi connection. Connect the camera to DJI Mimo wirelessly to
+update the firmware version.
+
+Video
+Compression
+
+Tap to switch the video-encoding format between Efficiency and
+Compatibility modes. If Efficiency is selected, videos will be encoded in
+HEVC with a smaller file size. If Compatibility is selected, videos will be
+encoded in H.264 with higher compatibility.
+
+Sounds
+
+Tap to set volume. High, medium, low, and mute are available.
+
+Grid
+
+Tap to display grid lines in liveview photos or videos to help level the
+camera vertically and horizontally. The display options include Grid,
+Diagonals, and Grid & Diagonals.
+
+Timecode
+
+Tap to set Timecode for the camera. When setting Timecode, the
+camera can be synchronized by the system settings. Also, the camera
+can be synchronized by the time code synchronizer using the USB-C
+port.
+
+Naming
+Management
+
+Tap to edit the naming rules for storage folders and files.
+
+Scrn Off When Rec Tap to set the time. After recording starts, the screen will turn off after
+the set time. This will not affect the recording.
+Auto Power Off
+
+Tap to set the time. The camera will power off automatically when
+there is no operation on camera within the set duration.
+
+LED
+
+Turn the two status LEDs on Osmo Action 4 on or off.
+
+Horizon
+Calibration
+
+Tap to calibrate the horizon according to the prompts on the screen.
+
+Continue Last
+Livestream
+
+Tap to enable, so the camera can continue the last livestream after it
+has stopped. Note: Livestream is only available on DJI Mimo.
+
+Language
+
+Tap to set the language to English, Simplified Chinese,Traditional
+Chinese, Japanese, Korean, Thai, Arabic, German, Spanish, French,
+Italian, Russian, Brazilian Portuguese, Turkish, Indonesian, or Polish.
+
+Date and Time
+
+Tap to set the date and time of the camera system.
+
+Format
+
+Tap and swipe to format the microSD card. Formatting will
+permanently delete all data on the microSD card. Make sure to back
+up all required data before formatting.
+
+Factory Reset
+
+Tap to restore the camera to its original factory settings. This will
+delete all the current settings, and the camera will be restored to the
+original factory settings and restart.
+
+© 2023 DJI All Rights Reserved.
+
+17
+
+

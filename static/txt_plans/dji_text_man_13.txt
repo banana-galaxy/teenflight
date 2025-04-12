@@ -1,0 +1,54 @@
+DJI Osmo Action 4 User Manual
+Slow Motion
+
+Supports 4x or 8x slow-motion video shooting. In Slow Motion mode,
+the camera records the video with a high frame rate and slows the
+footage down to 4x or 8x the normal speed during playback. Slow
+Motion catches details not visible to the naked eye, which is ideal for
+fast-action shots. Note: slow-motion videos do not include audio. The
+audio file is stored as a standalone file and has the same path as the
+videos, which can be transferred to your computer.
+
+Timelapse
+
+Select from Hyperlapse and Timelapse. In this mode, the camera
+turns long events into short videos by taking a frame of video at set
+intervals.
+Use Hyperlapse to record smooth timelapse videos when the camera
+is in motion (such as in a car or when held in the hand). Use Timelapse
+to record timelapse videos when the camera is mounted and still.
+Three presets in Timelapse are designed for typical scenes such as
+Crowds, Clouds, and Sunset. Users can also optimize the interval and
+duration for recording timelapse videos.
+
+4. Battery Level
+: this icon displays the current battery level of Osmo Action 4. Tap the icon to view more
+detailed information about the battery level.
+5. Parameters
+: click to adjust the image and audio parameters. Tap PRO to adjust pro parameters.
+Various parameters can be set in different shooting modes.
+Shooting Modes
+
+Parameters
+
+Photo
+
+Basic Mode
+The FOV and image parameters can be adjusted.
+1. FOV: the FOV can be set to Standard (Dewarp) or Wide.
+2. Image Adjustment: users can adjust the sharpness and noise
+reduction based on needs for optimal image quality.
+PRO Mode
+Exposure, White Balance, FOV, Format, and Image Adjustment are
+available.
+1. Exposure: Auto and Manual modes are available.
+2. White Balance: Auto and Manual modes are available.
+3. FOV: the parameters are same with Basic Mode.
+4. Format: select the picture to be stored as JPEG or JPEG+RAW.
+5. Image Adjustment: the parameters are same with Basic Mode.
+
+© 2023 DJI All Rights Reserved.
+
+13
+
+

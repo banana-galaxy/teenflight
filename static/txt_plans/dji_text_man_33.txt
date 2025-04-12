@@ -1,0 +1,102 @@
+DJI Osmo Action 4 User Manual
+Standard Recording
+
+4K (4:3): 3840×2880@24/25/30/48/50/60fps
+4K (16:9): 3840×2160@100/120fps
+4K (16:9): 3840×2160@24/25/30/48/50/60fps
+2.7K (4:3): 2688×2016@24/25/30/48/50/60fps
+2.7K (16:9): 2688×1512@100/120fps
+2.7K (16:9): 2688×1512@24/25/30/48/50/60fps
+1080p (16:9): 1920×1080@100/120/200/240fps
+1080p (16:9): 1920×1080@24/25/30/48/50/60fps
+
+Slow Motion
+
+4K: 4× (120fps)
+2.7K: 4× (120fps)
+1080p: 8× (240fps), 4× (120fps)
+
+Hyperlapse
+
+4K/2.7K/1080p: Auto/×2/×5/×10/×15/×30
+
+Timelapse
+
+4K/2.7K/1080p@30fps
+Intervals: 0.5/1/2/3/4/5/6/8/10/15/20/25/30/40 s
+Duration: 5/10/20/30 mins, 1/2/3/5 hours, ∞
+
+Stabilization
+
+EIS[2]:
+RockSteady 3.0
+RockSteady 3.0+
+HorizonBalancing
+HorizonSteady
+
+Max Video Bitrate
+
+130 Mbps
+
+Supported File System
+
+exFAT
+
+Photo Format
+
+JPEG/RAW
+
+Video Format
+
+MP4 (H.264/HEVC)
+
+Built-in Storage Capacity
+
+The camera does not have built-in storage, but storage
+capacity can be expanded by inserting a microSD card.
+
+Audio Output
+
+48 kHz 16-bit; AAC
+
+Battery
+Type
+
+LiPo 1S
+
+Capacity
+
+1770 mAh
+
+Energy
+
+6.8 Wh
+
+Voltage
+
+3.85 V
+
+Operating Temperature
+
+-20° to 45° C (-4° to 113° F)
+
+Charging Temperature
+
+5° to 40° C (41° to 104° F)
+
+Operating Time
+
+160 minutes[3]
+
+Connection
+Wi-Fi Operating Frequency
+
+2.4000-2.4835 GHz
+5.150-5.250 GHz
+5.725-5.850 GHz
+
+© 2023 DJI All Rights Reserved.
+
+33
+
+

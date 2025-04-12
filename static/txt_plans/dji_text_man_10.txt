@@ -1,0 +1,69 @@
+DJI Osmo Action 4 User Manual
+
+Charging Osmo Action 4
+Press the release button on the USB-C port cover and slide the cover down.
+Connect a USB-C charger (not included) to the USB-C port using the Type-C to Type-C PD cable
+(included). It is recommended to use the DJI 30 W USB-C Charger or a USB-C charger that
+supports Power Delivery or PPS (Programmable Power Supply). When the status LEDs turn off,
+the battery is fully charged. It takes about 18 minutes to charge the battery to 80%. The battery
+can be fully charged in about 49 minutes.*
+* Charging time was tested using a DJI 30 W USB-C Charger in a 25° C (77° F) environment. For reference only.
+
+Activating Osmo Action 4
+The DJI Mimo app is required for activation when using Osmo Action 4 for the first time. Follow
+the steps below to activate.
+1. Press and hold the Quick Switch Button to power on.
+2. Enable Wi-Fi and Bluetooth on the mobile device.
+3. Launch DJI Mimo, tap
+
+, and follow the instructions to activate Osmo Action 4.
+
+9:41
+
+发现
+
+学院
+
+DJI MIMO
+
+Device
+
+ACADEMY
+
+Device
+
+SUPPORT
+
+TEMPLATE
+
+COMMUNITY
+
+OSMO MOBILE 4
+
+MORE
+
+00 !39
+
+01!23
+
+Life Advice Looking Through...
+Home
+
+OSMO ACTION
+
+Album
+
+Do A Sporting Stag
+Edit
+
+Me
+
+MORE
+
+Refer to the relevant sections in DJI Mimo App for more information on how to operate the app.
+
+10
+
+© 2023 DJI All Rights Reserved.
+
+
