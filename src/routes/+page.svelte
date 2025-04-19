@@ -31,12 +31,13 @@
     <!-- <SearchResult page="100" /> -->
     {#each server["found"] as item}
         <!-- {JSON.stringify(item["item"])} -->
-        <div
+        <a
             class="self-center flex justify-between flex-row w-150 h-[300px] border-solid border-2 border-black hover:border-orange-600 p-2 mb-[20px]"
+            href="pdf_plans/DJI_manual_{item['item']['page']}.pdf"
         >
             <img src="img_plans/{item['item']['img']}" class="h-[280px]" />
             <div class="self-end text-3xl">{item["item"]["page"]}</div>
-        </div>
+        </a>
         <!-- <SearchResult page={item["item"]["page"]} /> -->
     {/each}
 </div>
