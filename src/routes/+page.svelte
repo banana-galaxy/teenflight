@@ -19,30 +19,7 @@
                 },
             });
             server = await response.json();
-            /*for (let i = 0; i < server.length - 1; i++) {
-                let path = "";
-                img_paths.push("");
-            }
-            console.log(server);
-            /*for (let i = 0; i < server["found"].length; i++) {
-                let delta = 0;
-                let match = [0,0]
-                let indices = server["found"][i]["matches"][0]["indices"];
-
-                for (let ind = 0; ind+1 < indices.length; ind++) {
-                    if (ind % 2 == 0) {
-                        if (ind+1 - ind > delta) {
-                            delta = ind+1 - ind;
-                            match[0] = ind;
-                            match[1] = ind+1;
-                        }
-                    }
-                }
-
-                server["found"][i]["match"] = server["found"][i]["item"]["content"].slice(match[0], match[1]+1)
-                console.log("matches: "+server["found"][i]["matches"][0]["indices"][4]);
-                console.log("matches: "+server["found"][i]["matches"][0]["indices"][5]);
-            }*/
+            server["found"].sort((a, b) => a.score - b.score)
         }}
     />
     <!-- <p>{test} {test}</p> -->
