@@ -34,6 +34,7 @@
             <h1 class="self-center text-3xl font-bold group-hover:text-orange-600">Section {item['item']['section']}</h1>
             <img src="img_plans/{item['item']['section']}/{item['item']['section']}_{item['item']['page']}-1.jpg" class="self-center h-[280px] w-[433px]" />
             <!--<p>{item["match"]}</p>-->
+            <p class="self-center">{item['match']}</p>
             <div class="self-end text-3xl font-bold group-hover:text-orange-600">{item["item"]["page"]}</div>
         </a>
         <!-- <SearchResult page={item["item"]["page"]} />w-[600px] h-[450px] -->
